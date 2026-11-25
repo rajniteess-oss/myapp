@@ -1,2 +1,1 @@
-# myapp
-MyApp: मुफ़्त ऑफ़लाइन-प्रथम दुकान प्रबंधन PWA
+dukaan-offline
